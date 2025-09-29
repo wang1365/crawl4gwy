@@ -1,0 +1,4 @@
+crawl4ai
+requests
+beautifulsoup4
+lxml
